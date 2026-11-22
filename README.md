@@ -5,6 +5,8 @@
 
 **Threat Jarvis X — Non-Commercial Share-Alike License** © 2026 [Condor](https://github.com/Condor2026).
 
+![TheCondor](JARVISX2.jpeg)
+
 Uso, copia y modificación gratis para uso no comercial. Nadie puede venderlo ni
 ofrecerlo como servicio de pago. Si publicas una versión modificada, su código
 fuente debe ser público y estar bajo esta misma licencia. Las modificaciones
