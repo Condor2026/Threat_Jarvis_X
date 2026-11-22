@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentación
+    url: https://github.com/Condor2026/Threat_Jarvis_X#readme
+    about: Antes de abrir un issue, revisa el README (instalación, órdenes, variables de entorno).
+  - name: Discusiones
+    url: https://github.com/Condor2026/Threat_Jarvis_X/discussions
+    about: Para dudas generales o ideas que todavía no son un bug ni una petición concreta.
