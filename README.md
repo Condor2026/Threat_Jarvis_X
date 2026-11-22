@@ -9,6 +9,7 @@ Uso, copia y modificación gratis para uso no comercial. Nadie puede venderlo ni
 ofrecerlo como servicio de pago. Si publicas una versión modificada, su código
 fuente debe ser público y estar bajo esta misma licencia. Las modificaciones
 privadas no obligan a publicar nada. Ver [`LICENSE`](LICENSE).
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Local-first](https://img.shields.io/badge/local--first-100%25-success.svg)](#)
 [![Ollama](https://img.shields.io/badge/LLM-Ollama-black.svg)](https://ollama.com/)
