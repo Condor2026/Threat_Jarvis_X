@@ -15,7 +15,7 @@ se adhiere a [Versionado Semántico](https://semver.org/lang/es/).
 
 ---
 
-## [2.0.0] — 2025-XX-XX
+## [2.0.0] — 2026-11-22
 
 Primera versión pública. Reescritura completa del proyecto anterior, enfocada en un
 único archivo (`Threat_Jarvis_X.py`) que se pueda leer de arriba a abajo.
@@ -70,6 +70,6 @@ Primera versión pública. Reescritura completa del proyecto anterior, enfocada 
 
 ---
 
-## [1.0.0] — anterior
+## [1.0.0]
 
 Versión previa del proyecto, de uso interno. No publicada en GitHub.
