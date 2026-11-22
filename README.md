@@ -3,11 +3,16 @@
 > Asistente de voz local para Threat Intelligence y OSINT pasivo. Cuatro personalidades,
 > cero telemetría, un solo archivo.
 
+**Threat Jarvis X — Non-Commercial Share-Alike License** © 2026 [Condor](https://github.com/Condor2026).
+
+Uso, copia y modificación gratis para uso no comercial. Nadie puede venderlo ni
+ofrecerlo como servicio de pago. Si publicas una versión modificada, su código
+fuente debe ser público y estar bajo esta misma licencia. Las modificaciones
+privadas no obligan a publicar nada. Ver [`LICENSE`](LICENSE).
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Local-first](https://img.shields.io/badge/local--first-100%25-success.svg)](#)
 [![Ollama](https://img.shields.io/badge/LLM-Ollama-black.svg)](https://ollama.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Condor2026/Threat_Jarvis_X?style=social)](https://github.com/Condor2026/Threat_Jarvis_X/stargazers)
+[![License: Non-Commercial Share-Alike](https://img.shields.io/badge/License-NonCommercial%20ShareAlike-orange.svg)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/Condor2026/Threat_Jarvis_X)](https://github.com/Condor2026/Threat_Jarvis_X/issues)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-✓-FCC624?style=for-the-badge&logo=linux&logoColor=black)
