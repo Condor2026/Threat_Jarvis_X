@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Datos locales si usas TJX_HOME=. (por defecto va a ~/.threat_jarvis_x, no se versiona)
+.threat_jarvis_x/
+reports/
+chats/
+voices/
+sentinel.json
+settings.json
+tasks.json
+memory.json
+notas.md
+token
+
+# Modelos de voz
+*.onnx
+*.onnx.json
+*.part
+
+# Secretos
+.env
+.env.local
+*.key
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
