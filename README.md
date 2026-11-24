@@ -149,7 +149,7 @@ Una interfaz web mínima que se abre sola en `http://127.0.0.1:8765/?t=<token>`.
 
 ```bash
 # 1) Clonar
-git clone https://github.com/Condor2026/Threat_Jarvis_X.git
+git clone https://github.com/Condor2026/Threat_Jarvis_X
 cd Threat_Jarvis_X
 
 # 2) Ollama (LLM local)
